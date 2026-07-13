@@ -141,19 +141,19 @@ http://127.0.0.1:5000
 </p>
 ## 📸 Login Page
 
-![Login](images/login.jpg)
+https://uploads.onecompiler.io/44te9mtgg/1783938384036/Login%20.jpg
 
 ## 📊 Dashboard
 
-![Dashboard](images/dashboard.jpg)
+https://uploads.onecompiler.io/44te9mtgg/1783938361761/Dashboard.jpg
 
 ## 🤖 AI Analysis
 
-![Analysis](images/analysis.jpg)
+https://uploads.onecompiler.io/44te9mtgg/1783938275302/Analyse%20Resume.jpg
 
 ## 📜 History
 
-![History](images/history.jpg)
+https://uploads.onecompiler.io/44te9mtgg/1783938337830/Histroy.jpg
 
 ---
 
