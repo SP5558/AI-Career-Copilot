@@ -137,15 +137,14 @@ http://127.0.0.1:5000
 <h2>📊 Dashboard</h2>
 
 <p align="center">
-  <img src="images/dashboard.jpg" width="900">
+  <img src="https://uploads.onecompiler.io/44te9mtgg/1783938361761/Dashboard.jpg" width="900">
 </p>
 ## 📸 Login Page
+<h2>📊 Login Page</h2>
 
-https://uploads.onecompiler.io/44te9mtgg/1783938384036/Login%20.jpg
-
-## 📊 Dashboard
-
-https://uploads.onecompiler.io/44te9mtgg/1783938361761/Dashboard.jpg
+<p align="center">
+  <img src="https://uploads.onecompiler.io/44te9mtgg/1783938384036/Login%20.jpg" width="900">
+</p>
 
 ## 🤖 AI Analysis
 
