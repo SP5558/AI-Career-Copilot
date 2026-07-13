@@ -134,16 +134,26 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-Add screenshots here after deployment.
+<h2>📊 Dashboard</h2>
 
-Example:
+<p align="center">
+  <img src="images/dashboard.jpg" width="900">
+</p>
+## 📸 Login Page
 
-- Login Page
-- Dashboard
-- Resume Analysis
-- History
-- Forgot Password
-- AI Results
+![Login](images/login.jpg)
+
+## 📊 Dashboard
+
+![Dashboard](images/dashboard.jpg)
+
+## 🤖 AI Analysis
+
+![Analysis](images/analysis.jpg)
+
+## 📜 History
+
+![History](images/history.jpg)
 
 ---
 
