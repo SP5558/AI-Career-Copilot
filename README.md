@@ -4,7 +4,7 @@ AI Career Copilot is an AI-powered resume analysis platform built with Flask and
 
 ## 🚀 Live Demo
 
-https://ai-career-copilot-7gj5.onrender.com
+https://ai-career-copilot-1-mn24.onrender.com
 
 ---
 
