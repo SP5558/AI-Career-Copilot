@@ -1,0 +1,7 @@
+Flask
+SQLAlchemy
+python-dotenv
+Werkzeug
+PyPDF2
+python-docx
+PyMySQL

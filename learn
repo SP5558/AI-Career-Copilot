@@ -1,0 +1,8 @@
+A > Flask 2
+B Flask 3
+
+with venv
+pip install flask sqlalchemy pymsql openai PyPDF2 Python-docx
+
+1- step's- setup
+2- database connection
