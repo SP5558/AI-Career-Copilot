@@ -139,20 +139,23 @@ http://127.0.0.1:5000
 <p align="center">
   <img src="https://uploads.onecompiler.io/44te9mtgg/1783938361761/Dashboard.jpg" width="900">
 </p>
-## 📸 Login Page
-<h2>📊 Login Page</h2>
+<h2>📸 Login Page</h2>
 
 <p align="center">
   <img src="https://uploads.onecompiler.io/44te9mtgg/1783938384036/Login%20.jpg" width="900">
 </p>
 
-## 🤖 AI Analysis
+ <h2> 🤖 AI Analysis</h2>
+<p align="center">
+  <img src="https://uploads.onecompiler.io/44te9mtgg/1783938275302/Analyse%20Resume.jpg" width="900">
+</p>
 
-https://uploads.onecompiler.io/44te9mtgg/1783938275302/Analyse%20Resume.jpg
 
-## 📜 History
+<h2>📜 History</h2>  
+<p align="center">
+  <img src="https://uploads.onecompiler.io/44te9mtgg/1783938337830/Histroy.jpg" width="900">
+</p>
 
-https://uploads.onecompiler.io/44te9mtgg/1783938337830/Histroy.jpg
 
 ---
 
