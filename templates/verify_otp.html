@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="auth-container">
+
+    <div class="auth-card">
+
+
+        <h2>Verify OTP</h2>
+
+
+        <p class="sub-text">
+            Enter the 6-digit OTP sent to your registered email.
+        </p>
+
+
+
+        {% if error %}
+
+        <p style="color:red;">
+            {{ error }}
+        </p>
+
+        {% endif %}
+
+
+
+
+        {% if success %}
+
+        <p style="color:green;">
+            {{ success }}
+        </p>
+
+        {% endif %}
+
+
+
+
+        <form method="POST">
+
+
+            <input
+                type="text"
+                name="otp"
+                placeholder="Enter 6-digit OTP"
+                maxlength="6"
+                pattern="[0-9]{6}"
+                inputmode="numeric"
+                required
+            >
+
+
+
+            <button type="submit">
+                Verify OTP
+            </button>
+
+
+
+        </form>
+
+
+
+
+        <br>
+
+
+
+        <a href="/forgot-password">
+            ← Back
+        </a>
+
+
+
+    </div>
+
+</div>
+
+
+{% endblock %}
